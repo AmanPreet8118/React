@@ -1,0 +1,18 @@
+.sub
+{
+    display: grid;
+    grid-template-columns: 7% 37% 37.75% 1%;
+} 
+.text
+{
+    padding-top: 5%;
+    padding-left: 2%;
+    color: white;
+    background-color: black;
+    font-weight: 500;
+    background-repeat: no-repeat;
+}
+.Photo
+{    
+    background-color: black;
+}

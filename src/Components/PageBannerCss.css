@@ -1,0 +1,56 @@
+.container
+{
+    display: grid;
+    grid-template-columns:10% 20% 20% 20% 20% 10%;
+}
+.course
+{
+    padding-left: 0%;
+    padding-top: 0%;
+    top: 229px; 
+    left: 157px;  
+    width: 129px;  
+    height: 20px; 
+    text-align: left;
+    font: normal normal 600 20px/24px Montserrat;
+    letter-spacing: 0px;
+    color: #0F1317;
+    opacity: 1;
+}
+.Dropdown
+{
+    padding-top: 5%;
+    padding-left: 99%;
+    top: 219px;
+    left: 1184px;
+    width: 182px;
+    height: 40px;
+    opacity: 1;
+}
+.search
+{
+    padding-top: 6%;
+    padding-left: 50%;
+    top: 230px;
+    left: 1396px;
+    width: 94px;
+    height: 19px;
+    text-align: left;
+    font: normal normal 300 16px/19px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.sign
+{
+    padding-top: 2%;
+    padding-left: 40%;
+    top: 231px;
+    left: 1746px;
+    width: 16px;
+    height: 16px;
+    opacity: 1;
+}
+.sign img{
+     color: white;
+}
